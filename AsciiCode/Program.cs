@@ -6,7 +6,7 @@ namespace AsciiCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
